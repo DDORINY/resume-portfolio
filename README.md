@@ -1,4 +1,4 @@
-# resume-portfolio
+# Resume-Portfolio
 **Python · Flask · MySQL 기반 프로젝트 포트폴리오 및 기술 정리**
 
 **Backend Developer Portfolio**
