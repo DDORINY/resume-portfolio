@@ -46,6 +46,7 @@ Service Layer 구조와 DB 중심 설계를 중점적으로 발전시키고 있�
 **LMS Management System**
 Python + MySQL 기반 학습관리 시스템(LMS) 팀 프로젝트입니다.
 
+---
 **주요 기능**
 - 회원 관리 (가입 / 수정 / 비활성화)
 - 로그인 / 세션 인증
@@ -54,6 +55,7 @@ Python + MySQL 기반 학습관리 시스템(LMS) 팀 프로젝트입니다.
 - 상품 관리
 - 관리자 권한 분리
 
+---
 **Architecture**
 - Layered Structure (Controller / Service / Repository)
 - Service 클래스 단위 기능 분리
@@ -61,6 +63,7 @@ Python + MySQL 기반 학습관리 시스템(LMS) 팀 프로젝트입니다.
 - 역할(Role) 기반 접근 제어
 - 모듈화된 CRUD 설계
 
+---
 **Technical Points**
 - Python OOP 기반 도메인 모델
 - MySQL 스키마 설계 및 관계 모델링
@@ -68,7 +71,8 @@ Python + MySQL 기반 학습관리 시스템(LMS) 팀 프로젝트입니다.
 - Soft Delete 패턴 적용
 - CLI → Web 확장 구조 고려
     - 프로젝트 링크: (추가 예정)
-    - 
+
+---
 ## Mini Projects (Building)**
 **TODO Flask App**
 - [TODO Flask App](https://github.com/DDORINY/MiniProject-ToDoList)
@@ -77,10 +81,14 @@ Python + MySQL 기반 학습관리 시스템(LMS) 팀 프로젝트입니다.
 - Soft Delete 토글 처리
 - Service Layer 적용
 - DAO 패턴 기반 DB 접근
+  
+---
 **Auth API Server (Building)**
 - 로그인 / 인증 API 서버
 - 세션 및 인증 로직 분리
 - 사용자 검증 서비스 구조화 예정
+
+---  
 **Mini Board System (Building)**
 - 게시판 CRUD
 - 작성자 기준 접근 제어
@@ -93,6 +101,8 @@ Python + MySQL 기반 학습관리 시스템(LMS) 팀 프로젝트입니다.
   - [TODO Flask App](https://github.com/DDORINY/MiniProject-ToDoList)
   - Auth API Server (예정)
   - Mini Board System (예정)
+
+---
 ##Study Repositories##    
 **Study Repositories**
 - [Python Study](https://github.com/DDORINY/study-PythonStudy26)
@@ -100,12 +110,16 @@ Python + MySQL 기반 학습관리 시스템(LMS) 팀 프로젝트입니다.
     - OOP 설계
     - 모듈 구조화
     - 패키지 구성
+
+---
 **Database Study**
 - [Database Study](https://github.com/DDORINY/study-DataBase26)
     - MySQL 실습
     - JOIN / GROUP BY
     - 서브쿼리
     - DDL / DML 정리
+
+---
 **Frontend Study**
 - [Frontend Study](https://github.com/DDORINY/study-Front-End-Study26)
     - HTML / CSS
