@@ -39,6 +39,10 @@ Service Layer 구조와 DB 중심 설계를 중점적으로 발전시키고 있�
 - HTML5
 - CSS3
 - Bootstrap 5
+
+# 🖼 Frontend UI Preview
+Bootstrap 기반 로그인 화면 샘플
+![Login UI v1](https://raw.githubusercontent.com/DDORINY/Frontend-ui-portfolio/main/assets/img/previews/login-v1.png)
 - UI 실습 레포:
    - [Front-UI](https://github.com/DDORINY/Frontend-ui-portfolio)
 
@@ -73,9 +77,19 @@ Python + MySQL 기반 학습관리 시스템(LMS) 팀 프로젝트입니다.
     - 프로젝트 링크: (추가 예정)
 
 ---
-## Mini Projects (Building)**
-**TODO Flask App**
+## Mini Projects (Building)
+# TODO Flask App
 - [TODO Flask App](https://github.com/DDORINY/MiniProject-ToDoList)
+# 🖼 TODO Flask UI
+
+| Login | Dashboard |
+|--------|-----------|
+| [![Login](https://raw.githubusercontent.com/DDORINY/MiniProject-ToDoList/main/docs/images/login.png)](https://raw.githubusercontent.com/DDORINY/MiniProject-ToDoList/main/docs/images/login.png) | [![Dashboard](https://raw.githubusercontent.com/DDORINY/MiniProject-ToDoList/main/docs/images/dashboard.png)](https://raw.githubusercontent.com/DDORINY/MiniProject-ToDoList/main/docs/images/dashboard.png) |
+
+| List | Signup |
+|------|--------|
+| [![List](https://raw.githubusercontent.com/DDORINY/MiniProject-ToDoList/main/docs/images/list.png)](https://raw.githubusercontent.com/DDORINY/MiniProject-ToDoList/main/docs/images/list.png) | [![Signup](https://raw.githubusercontent.com/DDORINY/MiniProject-ToDoList/main/docs/images/signup.png)](https://raw.githubusercontent.com/DDORINY/MiniProject-ToDoList/main/docs/images/signup.png) |
+
 - Flask 기반 Todo 관리 서비스
 - 로그인 사용자 기준 데이터 분리
 - Soft Delete 토글 처리
