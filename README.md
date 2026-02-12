@@ -27,6 +27,7 @@ Backend Developer Portfolio — Python · Flask · MySQL
 Python + Flask + MySQL 기반 학습관리 시스템
 
 **Architecture**
+
 - Controller / Service / Repository 분리
 - Service Layer 중심 비즈니스 로직
 - DB 연결 모듈 분리
@@ -34,6 +35,7 @@ Python + Flask + MySQL 기반 학습관리 시스템
 - 모듈화 CRUD 구조
 
 **Features**
+
 - 회원 관리
 - 로그인 / 세션 인증
 - 성적 관리
@@ -50,6 +52,7 @@ Python + Flask + MySQL 기반 학습관리 시스템
 사용자별 Todo 관리 서비스
 
 **Technical Points**
+
 - Service Layer 적용
 - DAO 패턴 기반 DB 접근
 - Soft Delete 처리
@@ -73,6 +76,7 @@ LMS 기능을 Flask 웹 애플리케이션으로 재구성한 개인 확장 프�
 
 CLI 기반 구조 → Web 구조로 전환하며  
 Blueprint 라우트 분리 + Repository 계층 + 템플릿 UI 연결을 실습했습니다.
+
 
 **Key Points**
 
@@ -144,6 +148,7 @@ Database
 - Service Layer 패턴
 
 ## Database
+
 - MySQL
 - ERD 설계
 - JOIN / 집계 쿼리
@@ -151,6 +156,7 @@ Database
 - 트랜잭션 처리 기초
 
 ## Frontend
+
 - HTML5
 - CSS3
 - Bootstrap 5
@@ -194,6 +200,7 @@ https://github.com/DDORINY/study-Front-End-Study26
 ---
 
 # Run Guide (Flask Projects)
+
 - git clone <repo_url>
 - cd project
 - python -m venv venv
